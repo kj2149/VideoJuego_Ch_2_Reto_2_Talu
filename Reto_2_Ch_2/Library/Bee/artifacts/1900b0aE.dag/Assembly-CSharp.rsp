@@ -353,6 +353,8 @@
 "Assets/Scripts/CarController.cs"
 "Assets/Scripts/Checkpoint.cs"
 "Assets/Scripts/CheckpointChecker.cs"
+"Assets/Scripts/ControlGeneral.cs"
+"Assets/Scripts/ControlSonido.cs"
 "Assets/Scripts/DisableTime.cs"
 "Assets/Scripts/RaceManager.cs"
 "Assets/Scripts/UIManager.cs"
