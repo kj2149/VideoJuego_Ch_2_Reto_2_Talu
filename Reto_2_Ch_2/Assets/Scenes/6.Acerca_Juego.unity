@@ -935,8 +935,8 @@ MonoBehaviour:
     y derecha) para mover tu carro en la pista de carreras. La flecha hacia arriba
     te har\xE1 acelerar, la flecha hacia abajo te ayudar\xE1 a frenar, y las flechas
     izquierda y derecha te permitir\xE1n girar en esas direcciones.\n\nUsa las teclas
-    Q para cambiar de camra y R para hacr Checkpoint, ganal la carrera y avanza en
-    cada nvel.\n\nSuerte jugador....."
+    Q para cambiar de camara y R para hacer Checkpoint, gana la carrera y avanza
+    en cada nivel.\n\nSuerte jugador....."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
